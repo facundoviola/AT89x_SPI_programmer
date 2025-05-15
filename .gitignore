@@ -1,0 +1,5 @@
+.vscode
+readhex.o
+pagelist.o
+ksu8051p
+spi.o
